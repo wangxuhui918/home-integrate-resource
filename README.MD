@@ -1,4 +1,6 @@
 # 📚简介
+该仓库(home-integrate-resource)为 [home-integrate-system](https://gitee.com/wangxuhui918/home-integrate-system) 的资源库
+ 
 home-integrate-system(以下简称系统)，是一个轻量级,完全开源的Springboot框架，系统通过以类spi的方式封装常用工具插件（阿波罗，数据库，dubbo，flyway，git，mybatis，tk-mybatis，redis，雪花算法，swagger-ui，hutool等）
 ，降低了系统集成难度。
 
